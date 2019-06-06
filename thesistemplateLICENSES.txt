@@ -1,0 +1,1 @@
+Licenses for LaTeX template was not given; however, it is later licensed under MIT license. The template is available at https://wiki.aalto.fi/display/Aaltothesis/Aalto+Thesis+LaTeX+Template Original version of the template is done Luis Costa, and changes are by Perttu Puska.
