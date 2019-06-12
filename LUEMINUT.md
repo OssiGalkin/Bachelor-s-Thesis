@@ -4,7 +4,7 @@
 
 Kandidaatin tutkielmani. Työ on suomeksi ja tehty käyttäen LaTeX:ia.  PDF version työstä löydät [täältä](Galkin_Ossi_2016.pdf) tai [Aaltodoc](http://urn.fi/URN:NBN:fi:aalto-201606212745) järjestelmästä, joka ei valitettavasti ole avoimesti käytettävissä.
 
-## Tiivistelmä
+## Tiivistelmä työstä ”Pieni maailma verkostot”
 
 Kompleksiseen järjestelmään syntyy rakenne sen elementtien sisäisen vuorovaikutuksen seurauksena. Tämän vuoksi elementtien erillinen tarkastelu ei riitä kuvaamaan systeemin käyttäytymistä. Kompleksisia systeemejä voidaan kuitenkin tarkastella verkostojen avulla. Tämä lähestymistapa mahdollistaa keskittymisen elementtien väliseen vuorovaikutukseen ja niiden toimintaan. Tämä kandidaatintyö käy läpi kuinka sosiaalisia systeemejä ja niiden vuorovaikutuksia voidaan kuvata pieni maailma verkostona.
 
