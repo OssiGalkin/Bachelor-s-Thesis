@@ -1,9 +1,9 @@
 
 [In Finnish / suomeksi](https://github.com/OssiGalkin/Bachelor-s-Thesis/blob/master/LUEMINUT.md)
 
-# Bachelor Thesis
+# Bachelor's Thesis
 
-My bachelor thesis in LaTeX in Finnish. PDF version can be founded [here](https://github.com/OssiGalkin/Bachelor-s-Thesis/blob/master/Galkin_Ossi_2016.pdf) or via [Aaltodoc](http://urn.fi/URN:NBN:fi:aalto-201606212745) archive, that is not unfortunately publicly accessible.
+My bachelor's thesis in LaTeX in Finnish. PDF version can be founded [here](https://github.com/OssiGalkin/Bachelor-s-Thesis/blob/master/Galkin_Ossi_2016.pdf) or via [Aaltodoc](http://urn.fi/URN:NBN:fi:aalto-201606212745) archive, that is not unfortunately publicly accessible.
 
 ## Abstract
 
