@@ -1,8 +1,8 @@
-[Kuvaus englanniksi / In English](https://github.com/OssiGalkin/Bachelor-s-Thesis/blob/master/README.md)
+[Kuvaus englanniksi / In English](README.md)
 
 # Kandidaatintyö
 
-Kandidaatin tutkielmani. Työ on suomeksi ja tehty käyttäen LaTeX:ia.  PDF version työstä löydät [täältä](https://github.com/OssiGalkin/Bachelor-s-Thesis/blob/master/Galkin_Ossi_2016.pdf) tai [Aaltodoc](http://urn.fi/URN:NBN:fi:aalto-201606212745) järjestelmästä, joka ei valitettavasti ole avoimesti käytettävissä.
+Kandidaatin tutkielmani. Työ on suomeksi ja tehty käyttäen LaTeX:ia.  PDF version työstä löydät [täältä](Galkin_Ossi_2016.pdf) tai [Aaltodoc](http://urn.fi/URN:NBN:fi:aalto-201606212745) järjestelmästä, joka ei valitettavasti ole avoimesti käytettävissä.
 
 ## Tiivistelmä
 
